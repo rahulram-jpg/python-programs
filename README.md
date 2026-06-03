@@ -1,1 +1,1 @@
-# python-programs
+# AI-ML Internship
